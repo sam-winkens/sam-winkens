@@ -45,3 +45,5 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/sam-winkens/sam-winkens/snake-output/snake.svg" alt="Snake animation" />
 
 ###
+
+![Profile Views](https://komarev.com/ghpvc/?username=sam-winkens&style=for-the-badge&color=red&label=profile%20views)
